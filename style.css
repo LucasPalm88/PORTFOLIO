@@ -1,0 +1,19 @@
+.top {
+  background-image: url('https://www.computersciencedegreehub.com/wp-content/uploads/2016/02/what-is-coding-1024x683.jpg');
+}
+
+h1 {
+  color: white;
+  text-shadow: 3px 2px midnightblue;
+  font-size: 42px;
+
+}
+
+.top {
+  border: 5px solid black;
+}
+
+h1 {
+  background-color: grey;
+  border: 5px solid black;
+}
