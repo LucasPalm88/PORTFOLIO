@@ -77,3 +77,9 @@ h2 {
   font-size: 16px;
   padding: 16px 32px;
 }
+
+h3 {
+  border: 5px solid black;
+  text-align: center;
+  background-color: #3366ff;
+}
