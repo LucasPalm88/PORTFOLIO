@@ -83,3 +83,18 @@ h3 {
   text-align: center;
   background-color: #3366ff;
 }
+
+.NYR {
+  border: black solid 5px;
+}
+
+.ABOUTPHOTO {
+  border: 5px solid black;
+}
+
+.ABOUTPHOTOCAR {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid black;
+}
