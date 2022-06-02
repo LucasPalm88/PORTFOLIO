@@ -98,3 +98,18 @@ h3 {
   margin-right: auto;
   border: 5px solid black;
 }
+
+a {
+  color: yellow;
+  text-shadow: 3px 2px red;
+  font-size: 30px;
+  text-align: center;
+}
+
+a:hover {
+    background-color: black;
+    color: yellow;
+    text-shadow: 3px 2px red;
+    font-size: 28px;
+    text-align: center;
+}
