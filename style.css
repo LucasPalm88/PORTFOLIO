@@ -149,3 +149,8 @@ h3 {
   display: inline-block;
     text-align: center;
   }
+
+form {
+  background-color: white;
+  border: solid 5px black;
+}
